@@ -1,0 +1,27 @@
+{
+  "name": "lambdaex1",
+  "version": "1.0.0",
+  "description": "Test Project for Lambda CI/CD",
+  "main": "index.js",
+  "dependencies": {
+    "time": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaknuces/lambdaEx1.git"
+  },
+  "keywords": [
+    "AWS",
+    "Lambda"
+  ],
+  "author": "Owais Zahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaknuces/lambdaEx1/issues"
+  },
+  "homepage": "https://github.com/zaknuces/lambdaEx1#readme"
+}
