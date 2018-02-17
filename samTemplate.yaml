@@ -8,7 +8,7 @@ Resources:
     Properties:
       Handler: index.handler
       Runtime: nodejs6.10
-      sEvents:
+      Events:
         MyTimeApi:
           Type: Api
           Properties:
